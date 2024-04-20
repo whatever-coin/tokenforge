@@ -182,6 +182,17 @@
       "verified": false,
       "vendor": "TheWarDawgs",
       "external_url":""
+    },
+    {
+      "name": "Whatever Coin",
+      "chainId": 1,
+      "symbol": "WHATEVER",
+      "decimals": 2,
+      "address": "0:999a78c8291dad34619c6f76f3769c3661333749d21607ac5b2265ef906dbda1",
+      "logoURI": "https://raw.githubusercontent.com/whatever-coin/whtvr_coin/bf1f5cca6e5904b714b9fe47ad1bcacd0ea831ac/whatever.svg",
+      "version": 5,
+      "verified": false,
+      "vendor": "Whatever Team"
     }
   ]
 }    
